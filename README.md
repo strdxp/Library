@@ -1,7 +1,7 @@
-# Uma Livraria On-line
+# Livraria
 
 
-## Eu estava pensando em o quê fazer com o meu repositório enquanto eu não estava ativo. Daí, me veio a idèia de fazer uma Biblioteca com todos os Livros que eu uso para estudos.
+### Eu estava pensando em o quê fazer com o meu repositório enquanto eu não estava ativo. Daí, me veio a idèia de fazer uma Biblioteca com todos os Livros que eu uso para estudos.
 
 #### Até porque, conhecimento nunca é demais.
 
